@@ -32,7 +32,7 @@ end
 sum1 = sum1/m;              % first term (no regularization)
 grad(1) = Diff_sum/m;       % gradient for theta_zero 
 
-sum2 = sumsq(theta) * lambda/(2*m); % second term (regularization)
+sum2 = sumsq(theta(2:end)) * lambda/(2*m); % second term (regularization)
 
 J = sum1 + sum2;            % final value of cost function
 
