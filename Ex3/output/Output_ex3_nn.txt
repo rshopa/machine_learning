@@ -1,0 +1,48 @@
+Loading and Visualizing Data ...
+Program paused. Press enter to continue.
+
+
+Loading Saved Neural Network Parameters ...
+
+Training Set Accuracy: 97.520000
+Program paused. Press enter to continue.
+
+Displaying Example Image
+
+Neural Network Prediction: 8 (digit 8)
+Program paused. Press enter to continue.
+
+
+Displaying Example Image
+
+Neural Network Prediction: 5 (digit 5)
+Program paused. Press enter to continue.
+
+Displaying Example Image
+
+Neural Network Prediction: 8 (digit 8)
+Program paused. Press enter to continue.
+
+
+Displaying Example Image
+
+Neural Network Prediction: 10 (digit 0)
+Program paused. Press enter to continue.
+
+Displaying Example Image
+
+Neural Network Prediction: 9 (digit 9)
+Program paused. Press enter to continue.
+
+Displaying Example Image
+
+Neural Network Prediction: 1 (digit 1)
+Program paused. Press enter to continue.
+
+Displaying Example Image
+
+Neural Network Prediction: 3 (digit 3)
+Program paused. Press enter to continue.
+
+
+>>

@@ -1,0 +1,19 @@
+Loading and Visualizing Data ...
+Program paused. Press enter to continue.
+
+
+Training One-vs-All Logistic Regression...
+Iteration    50 | Cost: 1.368405e-002
+Iteration    50 | Cost: 5.725222e-002
+Iteration    50 | Cost: 6.414172e-002
+Iteration    50 | Cost: 3.652766e-002
+Iteration    50 | Cost: 6.186712e-002
+Iteration    50 | Cost: 2.109730e-002
+Iteration    50 | Cost: 3.622287e-002
+Iteration    50 | Cost: 8.467862e-002
+Iteration    50 | Cost: 7.961973e-002
+Iteration    50 | Cost: 9.673746e-003
+Program paused. Press enter to continue.
+
+Training Set Accuracy: 94.980000
+>>
