@@ -36,7 +36,7 @@ fprintf('\n  C \t\t sigma \t\t error \n');
 for i = 1:length(rangeVals),
     for j = 1:length(rangeVals),
         
-        % itaretional 
+        % iterational 
         loopC = rangeVals(i);
         loopSigma = rangeVals(j);
         
