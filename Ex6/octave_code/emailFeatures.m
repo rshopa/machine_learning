@@ -53,7 +53,7 @@ x = zeros(n, 1);
 matr = word_indices == (1:n);
 
 % sum by columns and find non-zero values (some may occur twice or more)
-x = sum(matr,1) != 0;
+x = sum(matr,1) ~= 0;
 x = x(:); % coerce to vector
 
 % =========================================================================
