@@ -1,0 +1,3 @@
+# K-means Clustering and Principal Component Analysis
+
+**Note!** I have used here a [picture](http://ioana-v-yuki.deviantart.com/art/Happy-bday-drummer-354269317 "original") made by [Ioana-V-Yuki](http://ioana-v-yuki.deviantart.com/ "DeviantArt profile"), for the optional 1.5 exercise. Some additional warnings appeared while computing. However, the final reconstruction seems to have been appropriate.
