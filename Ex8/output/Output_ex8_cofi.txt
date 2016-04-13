@@ -1,0 +1,142 @@
+Loading movie ratings dataset.
+
+Average rating for movie 1 (Toy Story): 3.878319 / 5
+
+
+Program paused. Press enter to continue.
+
+Cost at loaded parameters: 22.224604
+(this value should be about 22.22)
+
+Program paused. Press enter to continue.
+
+Checking Gradients (without regularization) ...
+   1.89254   1.89254
+  -1.45750  -1.45750
+  -0.71805  -0.71805
+  -2.21577  -2.21577
+   1.11980   1.11980
+  -0.73692  -0.73692
+  -0.34273  -0.34273
+  -2.50487  -2.50487
+  -0.57681  -0.57681
+   3.93031   3.93031
+   1.97090   1.97090
+   6.70926   6.70926
+   3.18009   3.18009
+   0.00000   0.00000
+   0.02350   0.02350
+   1.98848   1.98848
+   0.04833   0.04833
+   1.17048   1.17048
+   0.00000   0.00000
+  -0.97762  -0.97762
+  -2.36996  -2.36996
+  -0.00339  -0.00339
+  -9.93829  -9.93829
+   0.00000   0.00000
+   0.47462   0.47462
+  -3.56229  -3.56229
+   0.06608   0.06608
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
+If your backpropagation implementation is correct, then
+the relative difference will be small (less than 1e-9).
+
+Relative Difference: 1.20502e-012
+
+Program paused. Press enter to continue.
+
+Cost at loaded parameters (lambda = 1.5): 31.344056
+(this value should be about 31.34)
+
+Program paused. Press enter to continue.
+
+Checking Gradients (with regularization) ...
+  -0.074282  -0.074282
+  -0.342305  -0.342305
+  -2.166015  -2.166015
+   1.579990   1.579990
+   1.878358   1.878358
+   0.119816   0.119816
+   1.274405   1.274405
+   2.857038   2.857038
+   1.981139   1.981139
+   2.016107   2.016107
+   1.403102   1.403102
+   0.391055   0.391055
+  -0.048501  -0.048501
+  -0.293951  -0.293951
+  -0.928901  -0.928901
+   1.093389   1.093389
+  -0.396364  -0.396364
+  -0.726287  -0.726287
+  -2.665798  -2.665798
+   0.238917   0.238917
+  -2.007021  -2.007021
+  -1.385051  -1.385051
+   0.846987   0.846987
+  -2.689514  -2.689514
+  -0.840229  -0.840229
+  -3.310389  -3.310389
+   0.054152   0.054152
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
+If your backpropagation implementation is correct, then
+the relative difference will be small (less than 1e-9).
+
+Relative Difference: 3.28187e-012
+
+Program paused. Press enter to continue.
+
+
+
+New user ratings:
+Rated 4 for Toy Story (1995)
+Rated 3 for Twelve Monkeys (1995)
+Rated 5 for Usual Suspects, The (1995)
+Rated 4 for Outbreak (1995)
+Rated 5 for Shawshank Redemption, The (1994)
+Rated 3 for While You Were Sleeping (1995)
+Rated 5 for Forrest Gump (1994)
+Rated 2 for Silence of the Lambs, The (1991)
+Rated 4 for Alien (1979)
+Rated 5 for Die Hard 2 (1990)
+Rated 5 for Sphere (1998)
+
+Program paused. Press enter to continue.
+
+Training collaborative filtering...
+Iteration   100 | Cost: 7.207255e+004
+Recommender system learning completed.
+
+Program paused. Press enter to continue.
+
+Top recommendations for you:
+Predicting rating 8.5 for movie Star Wars (1977)
+Predicting rating 8.4 for movie Titanic (1997)
+Predicting rating 8.3 for movie Shawshank Redemption, The (1994)
+Predicting rating 8.2 for movie Raiders of the Lost Ark (1981)
+Predicting rating 8.2 for movie Good Will Hunting (1997)
+Predicting rating 8.2 for movie Schindler's List (1993)
+Predicting rating 8.1 for movie Usual Suspects, The (1995)
+Predicting rating 8.0 for movie Braveheart (1995)
+Predicting rating 8.0 for movie Empire Strikes Back, The (1980)
+Predicting rating 7.9 for movie Godfather, The (1972)
+
+
+Original ratings provided:
+Rated 4 for Toy Story (1995)
+Rated 3 for Twelve Monkeys (1995)
+Rated 5 for Usual Suspects, The (1995)
+Rated 4 for Outbreak (1995)
+Rated 5 for Shawshank Redemption, The (1994)
+Rated 3 for While You Were Sleeping (1995)
+Rated 5 for Forrest Gump (1994)
+Rated 2 for Silence of the Lambs, The (1991)
+Rated 4 for Alien (1979)
+Rated 5 for Die Hard 2 (1990)
+Rated 5 for Sphere (1998)
+>>
