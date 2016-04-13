@@ -63,7 +63,7 @@ end
 
 % X_grad = ((X*Theta' - Y) .* R)*Theta + lambda.*X;
 % Theta_grad = ((X*Theta' - Y).*R)'*X + lambda.*Theta; % simplified version
-                                                       % will compute facter!
+                                                       % will compute faster!
 
 for j = 1:length(Theta) % loop through users
   
